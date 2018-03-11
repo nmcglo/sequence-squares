@@ -6,7 +6,7 @@ Inspired by this numberphile video:
 <center>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=G1m7goLCJDY
 " target="_blank"><img src="http://img.youtube.com/vi/G1m7goLCJDY/0.jpg" 
-alt="The Square-Sum Problem: Numberphile " width="480" height="200" border="10" /></a>
+alt="The Square-Sum Problem: Numberphile " border="10" /></a>
 </center>
 
 ## The Problem
